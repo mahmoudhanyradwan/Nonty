@@ -1,0 +1,8 @@
+{
+  "auroraSpeed": 0.3,
+  "particlesCount": 300,
+  "starColor": "#f0e6ff",
+  "nebulaColor1": "#c084fc",
+  "nebulaColor2": "#fbbf24",
+  "glowIntensity": 0.8
+}

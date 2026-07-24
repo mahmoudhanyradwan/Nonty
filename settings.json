@@ -1,0 +1,9 @@
+{
+  "enableMusic": true,
+  "enableParallax": true,
+  "enableFog": true,
+  "performanceMode": "auto",
+  "glassOpacity": 0.35,
+  "borderRadius": "2.5rem",
+  "transitionSpeed": "0.4s"
+}

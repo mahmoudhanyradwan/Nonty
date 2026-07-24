@@ -1,0 +1,69 @@
+[
+  {
+    "id": "intro",
+    "title": "🤍 قبل أي حاجة",
+    "type": "message",
+    "letterId": "letter1"
+  },
+  {
+    "id": "gallery1",
+    "title": "📸 ذكريات عمرها ما هتتنسى",
+    "type": "gallery",
+    "images": [
+      "images/first.jpg",
+      "images/memory1.jpg",
+      "images/memory2.jpg",
+      "images/memory3.jpg",
+      "images/memory4.jpg",
+      "images/memory5.jpg",
+      "images/memory6.jpg"
+    ]
+  },
+  {
+    "id": "videos",
+    "title": "🎥 شوية لحظات بحبها",
+    "type": "videos",
+    "videos": [
+      "videos/moment1.mp4",
+      "videos/moment2.mp4"
+    ]
+  },
+  {
+    "id": "voice",
+    "title": "🎙️ اسمعيني للآخر",
+    "type": "voice"
+  },
+  {
+    "id": "stars",
+    "title": "🌌 كل نجمة فيها كلمة",
+    "type": "stars",
+    "stars": [
+      "أنا آسف يا نونتي.",
+      "ولا لحظة كنت مستحق دموعك.",
+      "كل صورة هنا بتفكرني قد إيه كنت مبسوط وإنتي معايا.",
+      "ضحكتك كانت أجمل حاجة في يومي.",
+      "أنا اللي ضيعت كل ده بإيدي.",
+      "نفسي أشوفك بتضحكي تاني حتى لو مش بسببي.",
+      "بحبك أكتر مما بعرف أوصف.",
+      "يمكن متسامحينيش دلوقتي... بس كان لازم تعرفي ندمي قد اي."
+    ]
+  },
+  {
+    "id": "counter",
+    "title": "⏳ الوقت اللي عرفتك فيه",
+    "type": "counter"
+  },
+  {
+    "id": "letter2",
+    "title": "💌 آخر كلام من قلبي",
+    "type": "message",
+    "letterId": "letter2"
+  },
+  {
+    "id": "ending",
+    "title": "🤍 النهاية",
+    "type": "ending",
+    "image": "images/ending.jpg",
+    "text": "أنا مش مستني منك قرار دلوقتي...\nبس أتمنى لما تقفلي الصفحة تكوني عرفتي إن كل كلمة هنا طالعة من قلبي.\n\nأنا آسف يا نونتي.\nوبحبك."
+  }
+]
